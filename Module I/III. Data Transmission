@@ -1,0 +1,36 @@
+1.2 Data Transmission
+
+1.2.1 Video - Types of Personal Data
+- Media player component.
+- Play the video to explore types of personal data.
+
+1.2.2 The Bit
+- Computers and networks operate with binary digits (bits), 0 or 1.
+- Bits are the smallest unit of data, representing discrete states.
+- Computers interpret patterns of bits; humans interpret words and pictures.
+- Binary representation involves discrete states in physical systems.
+- Input devices translate human interaction into binary code; output devices translate binary data back.
+- Data is processed and stored as binary within the computer.
+- ASCII code is commonly used, where each character is represented by eight bits (byte).
+  - Examples: A = 01000001, 9 = 00111001, # = 00100011.
+- Codes represent various types of digital information, including data, graphics, photos, voice, video, and music.
+
+1.2.3 Common Methods of Data Transmission
+- Data, transformed into bits, must be converted into signals for network transmission.
+- Media refers to the physical medium (copper wire, fiber-optic cable, electromagnetic waves) on which signals are transmitted.
+- Signals consist of electrical or optical patterns representing digital bits and travel across media.
+- Three common methods of signal transmission:
+  - Electrical signals: Data represented as electrical pulses on copper wire.
+  - Optical signals: Conversion of electrical signals into light pulses.
+  - Wireless signals: Transmission using infrared, microwave, or radio waves through the air.
+- Network signals in homes/small businesses: Copper wires or Wi-Fi; larger networks use fiber-optic cables.
+
+1.2.4 Check Your Understanding - Data Transmission
+- Question 1: A basic unit of information that represents one of two discrete states is known as a:
+  - Answer: bit
+
+- Question 2: When using your credit card to make purchases at several places, the credit card company can use this information to learn about your location and your preferences. This type of personal data is known as:
+  - Answer: observed data
+
+- Question 3: Which of the following methods of signal transmission uses frequencies or pulses of light?
+  - Answer: optical signals

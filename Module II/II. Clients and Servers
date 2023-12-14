@@ -1,0 +1,41 @@
+2.1 Clients and Servers
+
+2.1.1 Video - Clients and Servers
+
+2.1.2 Client and Server Roles
+
+- Hosts participate in network communication.
+- Hosts can be clients, servers, or both.
+- Computer software determines the role (client/server).
+- Servers provide information to other hosts.
+- Clients request and display information obtained from servers.
+
+2.1.3 Peer-to-Peer Networks
+
+- Peer-to-peer (P2P) networks: hosts act as both clients and servers.
+- Small businesses and homes often use P2P networks.
+- Advantages: easy setup, less complexity, lower cost.
+- Disadvantages: no centralized administration, less secure, not scalable.
+
+2.1.4 Peer-to-Peer Applications
+
+- P2P applications: each device acts as both client and server.
+- Hybrid systems use centralized directories for resource indexes.
+- Example: Instant Message application.
+
+2.1.5 Multiple Roles in the Network
+
+- A computer with server software can serve multiple clients.
+- A single computer can run multiple types of server software.
+- Multiple client software can connect to multiple servers simultaneously.
+
+2.1.6 Check Your Understanding - Clients and Servers
+
+Question 1:
+- A computer that provides information like email or web pages is a server.
+
+Question 2:
+- A smartphone using a web browser is a client.
+
+Question 3:
+- A network where two computers communicate as both client and server is a peer-to-peer network.

@@ -3,7 +3,6 @@
 2.1.1 Video - Clients and Servers
 
 2.1.2 Client and Server Roles
-
 - Hosts participate in network communication.
 - Hosts can be clients, servers, or both.
 - Computer software determines the role (client/server).
